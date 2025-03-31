@@ -1,0 +1,11 @@
+;Nicolay;Mike;Tore;Kim;Greta;Liu;Federico;Jorunn;Jens;Tore2
+Nicolay;0;"1.5;2;Conduct research";"3;1;Develop service;Develop tool;Secure funding;Market and sell;Conduct research";"3.0;2;Develop service;Develop tool;Secure funding;Market and sell";0;0;"3;1;Develop service;Conduct research";"2;1;Secure funding";"1;1;Market and sell";"3;1;Develop service"
+Mike;"1.75;2;Conduct research";0;0;0;0;0;0;0;0;0
+Tore;"3;1;Develop service;Develop tool;Secure funding;Market and sell;Conduct research";0;0;"3;1;Develop service;Manage projects";0;0;0;0;0;0
+Kim;"3.0;2;Develop service;Develop tool;Secure funding;Market and sell";0;0;0;"3.0;2;Develop tool";"3.0;2;Develop tool";0;0;0;"3;1;Develop service;Manage projects"
+Greta;0;0;0;"3.0;2;Develop tool";"3;1;Develop tool";0;"2;1;Develop tool";0;0;0
+Liu;0;0;0;"3.0;2;Develop tool";"3;1;Develop tool";0;"3;1;Develop tool";0;0;0
+Federico;"3;1;Develop service;Conduct research";0;0;"2;1;Develop tool";0;"3;1;Develop tool";0;0;0;0
+Jorunn;0;0;0;0;0;0;0;0;0;0
+Jens;"1;1;Market and sell";0;0;0;0;0;0;0;0;0
+Tore2;"3;1;Develop service";0;0;"3;1;Develop service;Manage projects";0;0;0;0;0;0
